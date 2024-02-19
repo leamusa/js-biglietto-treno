@@ -1,9 +1,5 @@
 # js-biglietto-treno
 
-# js-biglietto-treno
-
-# js-biglietto-treno
-
 / Description :\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
 1. Ask the user to enter the number of kilometers to be traveled (km).
